@@ -1,0 +1,6 @@
+envBot/
+
+logins.txt
+
+**/__pycache__/
+.venv
