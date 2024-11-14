@@ -97,8 +97,8 @@ class AutomacaoDesk():
     def enviar_arquivos(self, lista_path_notas: list) -> None:
 
         lista_emails_empresas = {
-            "IDATHA BUSINESS INTELLIGENCE LTDA": "jackson@adaupsoft.com",
-            "TRIAD INTEGRATION SERVICOS E TECNOLOGIA DA INFORMACAO LTDA.": "jackson@adaupsoft.com"
+            "": "",
+            "": ""
         }
 
         for empresa in lista_path_notas:
